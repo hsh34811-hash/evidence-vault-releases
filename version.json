@@ -1,0 +1,9 @@
+{
+  "versionName": "1.0",
+  "versionCode": 1,
+  "releaseNotes": "Initial release of Evidence Vault.\n\n• Professional evidence management for Android\n• SHA-256 photo integrity verification\n• PDF report generation\n• Timeline tracking\n• GPS location auto-fill\n• Offline-first, privacy-focused",
+  "releaseNotesAr": "الإصدار الأول من Evidence Vault.\n\n• إدارة احترافية للأدلة على أندرويد\n• التحقق من سلامة الصور بـ SHA-256\n• توليد تقارير PDF\n• تتبع الجدول الزمني\n• تحديد الموقع تلقائياً بالـ GPS\n• يعمل بدون إنترنت مع حماية كاملة للخصوصية",
+  "downloadUrl": "https://github.com/hsh34811-hash/evidence-vault-releases/releases/latest/download/EvidenceVault.apk",
+  "forceUpdate": false,
+  "minVersionCode": 1
+}
